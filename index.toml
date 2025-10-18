@@ -217,3 +217,7 @@ metafile = true
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "b4cb2728813694e9f1272c3aa392698d8f864c599e56043444fc03bbef356330"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "b04405ac8446efd37cc3410492066c1d65b7d27ddbbfb8a4015e5fed9c6c020c"
