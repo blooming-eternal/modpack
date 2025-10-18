@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/crashexploitfixer.pw.toml"
-hash = "b8cdf32e77599797f3db000dd855907af7477fc17b94d39c7c2de40a82c1df0b"
+hash = "a02d2ca9d81ec63ce15ba7ee54368a938f2c5dd00d2cbc16ec38b2024e56f1b2"
 metafile = true
 
 [[files]]
