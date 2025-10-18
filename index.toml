@@ -217,8 +217,3 @@ metafile = true
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "b4cb2728813694e9f1272c3aa392698d8f864c599e56043444fc03bbef356330"
 metafile = true
-
-[[files]]
-file = "mods/terrarium-earth.pw.toml"
-hash = "5ca9d4d4f27ba592308c680271222c4940a0b3ec4e4bee9446e26fd092fe4626"
-metafile = true
